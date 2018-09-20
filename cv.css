@@ -1,0 +1,92 @@
+.navbar
+        {
+            border-bottom: 2px solid #eaedf2;
+            background-color: white;
+        }
+
+.nav-link {
+	color: #000000;
+	font-weight: 500;
+	
+}
+
+.container {
+	margin-top: 5vh;
+}
+
+ img {
+ position: relative;
+  object-fit: cover;
+  width: 100%;
+  max-height: 100%;
+}
+a.navbar-brand {
+	margin-left: 15%;
+	color:	#000000;
+	font-weight: 500;
+}
+
+#navbarsExampleDefault {
+	max-width: 1200px;
+}
+
+.bg-light {
+	background-color: #FFFFFF;
+}
+
+.navbar-dark
+	.navbar-nav
+		.nav-link {
+			color: #e3e8ef;
+			font-weight: 600;
+		}
+
+#banner {
+	background: black;
+	width: 100%;
+	height:25vh;
+	display: inline-block;
+	
+}
+
+#banner-text {
+	text-align: center;
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+
+
+body {
+	padding-top:60px;
+}
+
+.text {
+	width: 60%;
+	margin: auto;
+	margin-top: 5vh;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+}
+
+.hero-image {
+  background-image: url("images/alex-machado-435966-unsplash.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 55vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+h1 {
+	font-size: 40;
+}
+
+
+
